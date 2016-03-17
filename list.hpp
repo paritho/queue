@@ -1,8 +1,7 @@
 /********************************************************************
-* HW5 -- Linked List
+* Linked List
 *
 * Author: Paul Thompson
-*         prt@uakron.edu
 *
 * Purpose: Class definition for List<T>, which creates a list of
 * Node<T>. The List<T> has a pointer to the head and tail, which
