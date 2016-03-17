@@ -1,8 +1,7 @@
 /********************************************************************
-* HW6 -- Maze solver
+* Queue
 *
 * Author: Paul Thompson
-*         prt@uakron.edu
 *
 * Purpose: Using a linked list, implements a queue where objects are
 * FIFO. Dependent upon my implementation in List.hpp. Of note is that
